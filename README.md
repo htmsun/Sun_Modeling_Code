@@ -3,4 +3,4 @@ This repository contains the raw code used to generate figure panels in the subm
 
 "2CellModel.py" contains code used to generate panels in Fig. 4 of the main text.
 
-"ThreeCellModel.py" contains code used to generate figure panels in the Modeling Supplement, "Three-cell Model of Notch-Delta Lateral Inhibition"
+"ThreeCellModel.py" contains code used to generate figure panels in the Modeling Supplement, "Three-Cell Model of Notch-Delta Lateral Inhibition"
